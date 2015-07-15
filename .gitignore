@@ -1,2 +1,4 @@
 # R Studio
 *.Rproj*
+.RData
+.Rhistory
